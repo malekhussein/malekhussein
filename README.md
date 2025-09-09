@@ -1,4 +1,4 @@
-# (づ｡◕‿‿◕｡)づ //**Linuxawy**!
+# (づ｡◕‿‿◕｡)づ //**0xmd**!
 
 💻 Palestinian from Gaza, passionate programmer and developer who codes anything that comes to mind.  
 ⚡ Fast learner, always improving, loves Rust, Linux (especially Ubuntu & Arch).  
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,c,cpp,mojo,py,rust,bash,git,github,linux,ubuntu,arch,vscode,visualstudio,godot,unity,discord,chrome" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,dotnet,c,cpp,go,mojo,py,rust,bash,git,github,linux,ubuntu,arch,vscode,visualstudio,godot,unity,discord,chrome" />
   </a>
 </p>
 
