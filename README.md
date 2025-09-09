@@ -1,4 +1,4 @@
-# (づ｡◕‿‿◕｡)づ //**0xmd**!
+# (づ｡◕‿‿◕｡)づ //**Linuxawy**!
 
 💻 Palestinian from Gaza, passionate programmer and developer who codes anything that comes to mind.  
 ⚡ Fast learner, always improving, loves Rust, Linux (especially Ubuntu & Arch).  
