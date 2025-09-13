@@ -13,7 +13,7 @@
 </p>
 
 ```rust
-pub fn about(){
+pub fn about() {
   println!("love programming");
   println!("I use Arch btw");
   println!("Free Palestine🇵🇸");
