@@ -23,3 +23,6 @@ fn main() {
   about();
 }
 ```
+<a href='https://discord.com/users/linuxawy_' target="_blank">
+  <img alt='Discord' src='https://img.shields.io/badge/linuxawy__-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black&color=black'/>
+</a>
