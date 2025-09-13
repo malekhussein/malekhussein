@@ -8,15 +8,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,c,cpp,go,py,php,laravel,code,rust,bash,git,github,linux,ubuntu,arch,vscode,visualstudio,obsidian,godot,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,c,cpp,go,py,php,laravel,rust,bash,git,github,linux,ubuntu,arch,vscode,visualstudio,obsidian,godot,discord" />
   </a>
 </p>
 
-```cs
-type program {
-    object idk = "Arch"
-    object main = () {
-        printin("i use ")
-        console.print(idk + " btw")
-    }
+```rust
+pub fn about(){
+  println!("love programming");
+  println!("I use Arch btw");
+  println!("Free Palestine🇵🇸");
 }
+
+fn main() {
+  about();
+}
+```
