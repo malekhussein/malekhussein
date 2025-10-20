@@ -12,7 +12,7 @@
   </a>
 </p>
 
-[![Stats Light](https://github-readme-stats.vercel.app/api?username=yourusername&theme=default)](#gh-light-mode-only)
+
 
 ---
 
