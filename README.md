@@ -35,7 +35,7 @@ fn main() {
 ```
 
 <a href='https://discord.com/users/1328296284456751119' target="_blank">
-  <img alt='Discord' src='https://img.shields.io/badge/linuxawy__-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=000000&borderRadius=20'/>
+  <img alt='Discord' src='https://img.shields.io/badge/s4cp_-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=000000&borderRadius=20'/>
 </a>
 
 
